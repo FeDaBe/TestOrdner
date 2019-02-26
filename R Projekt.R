@@ -6,8 +6,4 @@ df1 <- data.frame(x, y,z)
 
 print(df1)
 
-View(mtcars)
-
-plot(mtcars$mpg, mtcars$cyl)
-
 
